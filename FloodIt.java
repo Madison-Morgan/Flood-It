@@ -31,7 +31,7 @@ public class FloodIt {
     public static void main(String[] args){
 
     	
-    	StudentInfo.display();
+    	//StudentInfo.display();
         System.out.println("\n\nHow large would you like the game size to be? ");
         sc= new Scanner(System.in);
         int size=sc.nextInt();
