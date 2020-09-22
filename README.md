@@ -3,23 +3,22 @@ Re-creating the game Flood-It for an assignment, simple yet addictive strategy g
 
 Implemeted using the MVC (Model View Controller) design pattern in Java.
 
-	*For the "Model" portion of this lab 
-		* GameModel.java
-		* DotInfo.java
+* For the "Model" portion of this lab 
+	* GameModel.java
+	* DotInfo.java
 
-	*For the "Controller" portion of this lab
-		* GameController.java
-		* Stack.java (Interface)
-		* MyStack.java (Implements Stack.java interface)
+* For the "Controller" portion of this lab
+	* GameController.java
+	* Stack.java (Interface)
+	* MyStack.java (Implements Stack.java interface)
 	* FloodIt.java
 
-	* For the "View" portion of this lab
-		* GameView.java
-		* DotButton.java
+* For the "View" portion of this lab
+	* GameView.java
+	* DotButton.java
 	
 
 ## To Run The Game
-
 ```java
 javac Floodit.java
 java Floodit.java
@@ -40,6 +39,6 @@ The window also keeps track of the number of moves you have made, and allows you
 
 
 
-## Dependancies
+## Dependencies
 Must have javac compiler
 Java ver 11.0>=
